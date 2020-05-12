@@ -1,5 +1,5 @@
 {
-  "name": "@barakch/npm-test",
+  "name": "@jfrogqa/npm-test",
   "version": "1.0.3",
   "description": "github remote test",
   "main": "index.js",
@@ -9,14 +9,14 @@
   "keywords": [
     "test"
   ],
-  "author": "barakch",
+  "author": "shmulik kummer",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git://github.com/barakch/npm-test.git"
   },
   "bugs": {
-    "url": "https://github.com/barakch/npm-test/issues"
+    "url": "https://github.com/jfrog-qa/NpmTest/issues"
   },
-  "homepage": "https://github.com/barakch/npm-test#readme"
+  "homepage": "https://github.com/jfrog-qa/NpmTest#readme"
 }
