@@ -13,10 +13,15 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/barakch/npm-test.git"
+    "url": "git://github.com/jfrog-qa/npmTest.git"
   },
   "bugs": {
     "url": "https://github.com/jfrog-qa/NpmTest/issues"
   },
   "homepage": "https://github.com/jfrog-qa/NpmTest#readme"
+  
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  
 }
