@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jfrog-qa/NpmTest#readme"
   
-  "publishConfig": {
+  "publishConfig:" {
     "registry":"https://npm.pkg.github.com/"
   },
   
