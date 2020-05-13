@@ -16,7 +16,7 @@
     "url": "git://github.com/jfrog-qa/npmTest.git"
   }, 
   
-  "publishConfig:" {
+  "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
   
