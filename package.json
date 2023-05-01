@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jfrog-qa/npmTest.git"
+    "url": "https://github.com/jfrog-qa/npmTest.git"
   }, 
   
   "publishConfig": {
